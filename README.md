@@ -1,7 +1,11 @@
 # Construção de Meta Mensagem - Dália (abril/2025)
-## Instruções do projeto:
+## Instruções:
 
 ✨ Enviar o Perfil Semiótico de 3 atividades do PI, adaptando o template MIS.
+
+## Projeto - Dália
+
+[Link para o repositório do Dália](https://github.com/nouveauromance/Dalia_Projeto.git)
     
 ## Autores
 
