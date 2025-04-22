@@ -5,7 +5,7 @@
 
 ## Projeto - Dália
 
-[Link para o repositório do Dália](https://github.com/nouveauromance/Dalia_Projeto.git)
+🔌[Link para o repositório do Dália](https://github.com/nouveauromance/Dalia_Projeto.git)
     
 ## Autores
 
