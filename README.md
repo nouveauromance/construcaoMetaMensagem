@@ -5,6 +5,9 @@
     
 ## Autores
 
+- [@Ana Beatriz](https://github.com/ana-bia07)
+- [@Diovanni](https://github.com/Diovanni-ls)
+- [@Guilherme](https://github.com/GuilhermeSouza198)
 - [@Natali](https://github.com/nouveauromance)
 
 🔗 Aula por Patrícia Gallo do França
